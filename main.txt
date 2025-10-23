@@ -2,6 +2,3 @@
 alguma coisa
 
 oiiiiiii
-=======
-java é vida
->>>>>>> 46ca5f79d61d101c184709a83f966e1ac6234c25
